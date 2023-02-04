@@ -20,12 +20,13 @@
 
 .view{
     cursor: pointer;
-    border: 1px solid var(--grey);
+    border: 1px solid white;
     color: #fff;
     padding: 10px;
     padding-left: 20px;
     padding-right: 20px;
     border-radius: 10px;
+    font-size: 16px;
 }
 
 .services{

@@ -19,6 +19,7 @@
 }
 
 .icons{
+    cursor: pointer;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -30,6 +31,7 @@
 }
 
 .icons2{
+    cursor: pointer;
     display: flex;
     align-items: center;
     justify-content: center;

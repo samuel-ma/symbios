@@ -1,0 +1,60 @@
+
+
+.faqs{
+    padding: 50px;
+}
+
+.faq1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: -webkit-linear-gradient(45deg, #680aca, #ff897e);
+    background: linear-gradient(60deg,#f79533,#f37055,#ef4e7b,#a166ab,#5073b8,#1098ad,#07b39b,#6fba82);
+    -webkit-animation: animatedgradient 6s ease infinite alternate;
+    animation: animatedgradient 6s ease infinite alternate;
+    background-size: 300% 300%;
+    color: #fff;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.faq2{
+    margin-top: 20px;
+}
+
+.fas{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    border: 1px solid var(--grey);
+    border-radius: 10px;
+}
+
+.fas div{
+    cursor: pointer;
+}
+
+.freq{
+    margin-top: 0;
+}
+
+.hear{
+    width: 400px;
+}
+
+.view{
+    background-color: transparent;
+    font-family: "Space Grotesk";
+}
+
+.arrd{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid var(--grey);
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 5px;
+    cursor: pointer;
+}
