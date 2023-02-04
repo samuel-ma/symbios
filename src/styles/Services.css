@@ -1,0 +1,136 @@
+
+
+.content{
+    padding: 50px;
+}
+
+.success{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.success1{
+    width: 500px;
+}
+
+.view{
+    cursor: pointer;
+    border: 1px solid var(--grey);
+    color: #fff;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+}
+
+.services{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 50px;
+}
+
+.service{
+    border: 1px solid var(--grey);
+    border-radius: 10px;
+    width: fit-content;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.s-top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.s-links{
+    width: 220px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    margin: 20px;
+    margin-top: 0;
+}
+
+.s-img{
+    width: 400px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.s-logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: yellow;
+    border: 2px solid white;
+    padding: 10px;
+    font-size: 25px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: -30px;
+}
+
+.ss-logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #4A3CFD;
+    border: 2px solid white;
+    padding: 10px;
+    font-size: 25px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: -30px;
+}
+
+.sss-logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #E62E8D;
+    border: 2px solid white;
+    padding: 10px;
+    font-size: 25px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: -30px;
+}
+
+.details{
+    margin: 20px;
+    margin-top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+}
+
+.zip{
+    margin: 0;
+    margin-top: 10px;
+    color: white;
+    width: 210px;
+}
+
+.lead{
+    margin: 0;
+    color: grey;
+    text-decoration: none;
+}
+
+.raised{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--grey);
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    font-size: smaller;
+}

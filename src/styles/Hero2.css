@@ -1,0 +1,32 @@
+
+
+.hero2{
+    display: flex;
+    align-items: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 20px;
+}
+
+.hero-left{
+    flex: 2;
+}
+
+.hero-right{
+    flex: 1;
+}
+
+.sharing{
+    width: 500px;
+    height: 500px;
+    object-fit: contain;
+}
+
+.better{
+    font-size: 110px;
+    margin: 0;
+    background-image: -webkit-linear-gradient(45deg,#f37055,#ef4e7b,#a166ab,#5073b8, purple);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    border: 1px solid #000;
+}
