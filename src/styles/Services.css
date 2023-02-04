@@ -6,12 +6,16 @@
 
 .success{
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: space-between;
 }
 
 .success1{
     width: 500px;
+}
+
+.our{
+    margin-top: 0;
 }
 
 .view{

@@ -11,24 +11,28 @@ function Navbar() {
         </div>
 
         <div className="midnav">
-            <div>About</div>
+            <div className="acc2">
+                <a href="_blank">About</a>
+            </div>
 
             <div className="acc">
-                Training
+                <a href="_blank">Training</a>
                 <BiChevronDown/>
             </div>
 
             <div className="acc">
-                LMS
+                <a href="_blank">LMS</a>
                 <BiChevronDown/>
             </div>
 
             <div className="acc">
-                Consulting
+                <a href="_blank">Consulting</a>
                 <BiChevronDown/>
             </div>
 
-            <div>Blog</div>
+            <div className="acc2">
+                <a href="_blank">Blog</a>
+            </div>
         </div>
 
         <div className="rightnav">

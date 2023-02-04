@@ -9,7 +9,7 @@ function Services() {
     <div className="content">
         <div className="success">
             <div className="success1">
-                <h1>Our Services</h1>
+                <h1 className="our">Our Services</h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur sit quis optio facere accusantium temporibus error, ipsum consectetur praesentium aspernatur et sequi culpa aut eligendi nisi dolorem quidem omnis? Nulla!</p>
             </div>
 

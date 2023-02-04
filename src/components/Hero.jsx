@@ -1,6 +1,6 @@
 
 import "../styles/Hero.css"
-import hero from "../assets/banner (4).webp"
+import hero from "../assets/banner (3).webp"
 import { MdChevronLeft, MdChevronRight } from "react-icons/md";
 
 function Hero() {

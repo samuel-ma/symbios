@@ -46,7 +46,10 @@
 
 .k{
     margin: 0;
-    font-size: 60px;
+    font-size: 70px;
+    background-image: -webkit-linear-gradient(45deg,#f37055,#ef4e7b,#a166ab,#5073b8, purple);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .total{

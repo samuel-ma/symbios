@@ -9,6 +9,10 @@
     padding-right: 40px;
 }
 
+.leftnav{
+    cursor: pointer;
+}
+
 .midnav{
     display: flex;
     align-items: center;
@@ -16,17 +20,30 @@
     width: 500px;
 }
 
+.acc2:hover,
+.acc:hover{
+    cursor: pointer;
+}
+
 .rightnav{
     display: flex;
     align-items: center;
 }
 
+.acc2,
 .acc{
     display: flex;
     align-items: center;
 }
 
+.acc2 a,
+.acc a{
+    color: var(--white);
+    text-decoration: none;
+}
+
 .call{
+    cursor: pointer;
     display: flex;
     align-items: center;
     padding: 10px;
@@ -44,7 +61,12 @@
     color: #fff;
 }
 
+.call:hover{
+    opacity: 90%;
+}
+
 .profile{
+    cursor: pointer;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -52,7 +74,12 @@
     margin-left: 10px;
 }
 
+.profile:hover{
+    color: #ef4e7b;
+}
+
 .action{
+    cursor: pointer;
     display: flex;
     align-items: center;
     justify-content: center;
