@@ -32,6 +32,11 @@
     background: linear-gradient(114.88deg,#3cd0ff,#0b0050),linear-gradient(107.56deg,#000e16,#0c21e0 48.44%,#05d2ff);
 }
 
+.trainees p,
+.trainees2 p{
+    color: #dddcdcd3;
+}
+
 .trainees h1,
 .trainees2 h1{
     color: white;

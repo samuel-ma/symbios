@@ -18,11 +18,11 @@ function Footer() {
             </div>
             
             <div className='flinks'>
-                <h1>ABOUT US</h1>
-                <a href="_blank">Our Team</a>
-                <a href="_blank">Our partners</a>
-                <a href="_blank">Social Responsibility</a>
-                <a href="_blank">Library</a>
+                <h1>CLIENTS</h1>
+                <a href="_blank">Industries</a>
+                <a href="_blank">Our clients</a>
+                <a href="_blank">Clients Testimonials</a>
+                <a href="_blank">Success stories</a>
             </div>
             
             <div className='flinks'>
@@ -54,12 +54,13 @@ function Footer() {
         </div>
 
         <div className='footer2'>
-            <a href="_blank">
-                Copyright © 2023 Symbios Consulting. All rights reserved.
+
+            <a href="https://github.com/samuel-ma" className="samuel">
+                Created with 💖 by Samuel-ma
             </a>
 
-            <a href="https://github.com/samuel-ma">
-                Created with 💖 by Samuel-ma
+            <a href="">
+                Copyright © 2023 Symbios Consulting. All rights reserved.
             </a>
         </div>
 

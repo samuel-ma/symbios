@@ -44,3 +44,7 @@ a{
 .fficon:hover{
     color: #077fe2;
 }
+
+.samuel:hover{
+    text-decoration: underline;
+}
