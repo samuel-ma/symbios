@@ -1,0 +1,52 @@
+
+
+:root{
+    --bg: #101114;
+    --line: #fafafa31;
+    --blueBg: linear-gradient(0deg,rgba(5,1,13,.6),rgba(5,1,13,.6)),linear-gradient(101.54deg,#7cefff 12.48%,#397ee4 40.34%,#1b0536 87.81%);
+    --pinkBg: linear-gradient(0deg,rgba(5,1,13,.6),rgba(5,1,13,.6)),linear-gradient(101.54deg,#fd9eff 12.48%,#9e1f3e 40.34%,#270511 87.81%);
+    --deepPinkBackground-image: linear-gradient(107.56deg,#ff7a7a 2.2%,#a30cb5 29.17%,#a30cb5 45.31%,#00173a 95.31%);
+    --deepBlueBg: linear-gradient(114.88deg,#3cd0ff,#0b0050),linear-gradient(107.56deg,#000e16,#0c21e0 48.44%,#05d2ff);
+}
+
+.train{
+    display: flex;
+    align-items: center;
+    margin: 50px;
+    gap: 20px;
+}
+
+.trainees{
+    flex: 1;
+    padding: 30px;
+    font-size: smaller;
+    border-radius: 15px;
+    background: linear-gradient(0deg,rgba(5,1,13,.6),rgba(5,1,13,.6)),linear-gradient(101.54deg,#fd9eff 12.48%,#9e1f3e 40.34%,#270511 87.81%);
+}
+
+.trainees2{
+    flex: 1;
+    padding: 30px;
+    font-size: smaller;
+    border-radius: 15px;
+    background: linear-gradient(114.88deg,#3cd0ff,#0b0050),linear-gradient(107.56deg,#000e16,#0c21e0 48.44%,#05d2ff);
+}
+
+.trainees h1,
+.trainees2 h1{
+    color: white;
+}
+
+.t-icons{
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    color: white;
+    width: 30px;
+    height: 30px;
+    border-radius: 60px;
+    background-color: var(--line);
+}
+

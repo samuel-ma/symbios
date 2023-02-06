@@ -7,6 +7,7 @@ import Navbar from './components/Navbar'
 import Services from './components/Services'
 import Socials from './components/Socials'
 import Stats from './components/Stats'
+import Trainees from './components/Trainees'
 
 function App() {
 
@@ -20,6 +21,7 @@ function App() {
       <Services/>
       <Faqs/>
       <Email/>
+      <Trainees/>
     </div>
   )
 }
