@@ -1,0 +1,26 @@
+
+
+.footer{
+    margin: 50px;
+    font-size: smaller;
+}
+
+.footer2,
+.footer1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px;
+    border-top: 1px solid var(--grey);
+}
+
+.flinks{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+a{
+    color: grey;
+    text-decoration: none;
+}

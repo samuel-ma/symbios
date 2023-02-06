@@ -1,6 +1,7 @@
 import './App.css'
 import Email from './components/Email'
 import Faqs from './components/Faqs'
+import Footer from './components/Footer'
 import Hero from './components/Hero'
 import Hero2 from './components/Hero2'
 import Navbar from './components/Navbar'
@@ -22,6 +23,7 @@ function App() {
       <Faqs/>
       <Email/>
       <Trainees/>
+      <Footer/>
     </div>
   )
 }

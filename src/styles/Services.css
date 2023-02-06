@@ -29,6 +29,17 @@
     font-size: 16px;
 }
 
+.view:hover{
+    color: white;
+    background: -webkit-linear-gradient(45deg, #680aca, #ff897e);
+    background: linear-gradient(60deg,#f79533,#f37055,#ef4e7b,#a166ab,#5073b8,#1098ad,#07b39b,#6fba82);
+    -webkit-animation: animatedgradient 6s ease infinite alternate;
+    animation: animatedgradient 6s ease infinite alternate;
+    background-size: 300% 300%;
+    border: 1px solid #000;
+    border: none;
+}
+
 .services{
     display: flex;
     align-items: center;
