@@ -8,7 +8,7 @@
 .footer2,
 .footer1{
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: space-between;
     padding: 30px;
     border-top: 1px solid var(--grey);
@@ -23,4 +23,24 @@
 a{
     color: grey;
     text-decoration: none;
+}
+
+.ficons{
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100px;
+}
+
+.fficon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 22px;
+}
+
+.fficon:hover{
+    color: #077fe2;
 }
